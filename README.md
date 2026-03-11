@@ -1,5 +1,4 @@
 # Machine-Learning-Playground
-# Machine Learning Projects
 
 This repository contains my machine learning projects focused on **data analysis, model building, and evaluation using real-world datasets**.
 The goal of these projects is to practice the **end-to-end ML workflow**, including data preprocessing, visualization, model training, and performance comparison.
